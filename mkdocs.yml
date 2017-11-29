@@ -1,5 +1,7 @@
-site_name: My Docs
+site_name: Netlify Internal Docs
+repo_url: https://github.com/verythorough/mkdocs-starter-kit
+edit_uri: edit/master/docs/
 pages:
-- Home: index.md
 - About: about.md
+- Home: index.md
 theme: readthedocs
