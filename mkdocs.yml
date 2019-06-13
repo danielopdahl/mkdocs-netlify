@@ -1,5 +1,5 @@
 site_name: Netlify Internal Docs
-repo_url: https://github.com/verythorough/mkdocs-starter-kit
+repo_url: https://github.com/danielopdahl/mkdocs-netlify
 edit_uri: edit/master/docs/
 pages:
 - About: about.md
